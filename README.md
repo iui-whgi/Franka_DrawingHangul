@@ -24,3 +24,12 @@ Sim2Real 전환은 전반적으로 안정적으로 이루어졌으나, 실제 �
 현재 시스템은 기능적으로는 정상 동작하지만, 구조적으로는 다소 파편화되어 있어 유지보수 및 재현성 측면에서 비효율적인 문제가 존재한다. 따라서 추후에는 Docker 환경 내에 LangChain 및 IsaacSim을 통합하여, 보다 일관성 있고 재현 가능한 구조를 구성할 계획이다. 이를 통해 JSON 파일을 자동 생성하고, 실험 반복과 결과 관리의 효율성을 극대화할 수 있을 것으로 기대된다.
 
 
+
+https://github.com/user-attachments/assets/2b261361-0e96-4bcc-a99e-f3d27e3e9694
+
+
+
+![Screenshot from 2025-03-26 15-09-52](https://github.com/user-attachments/assets/7b3151c2-5350-48b9-8beb-c918f1cd1b44)
+
+
+![Screenshot from 2025-03-28 20-29-36](https://github.com/user-attachments/assets/0a2222e2-60f1-484d-b497-a086b350d925)
